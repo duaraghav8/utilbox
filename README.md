@@ -1,3 +1,3 @@
 # Utilbox
 
-Simple docker container with a bunch of packages to aid in CI and CD
+Simple Python Docker container with come pre-installed dependencies to facilitate running auxiliary scripts quickly.
